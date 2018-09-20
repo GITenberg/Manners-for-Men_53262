@@ -1,0 +1,24 @@
+_repo: Manners-for-Men_53262
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Humphry, Mrs.
+    alias: Humphry, C. E., Mrs.
+    deathdate: 1925
+    gutenberg_agent_id: '38213'
+    url: http://www.gutenberg.org/2009/agents/38213
+description: ''
+gutenberg_issued: '2016-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette for men'
+- !lcc 'BJ'
+- GITenberg
+title: Manners for Men
+url: http://www.gutenberg.org/ebooks/53262
